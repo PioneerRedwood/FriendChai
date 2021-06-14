@@ -15,7 +15,7 @@
 
 ## 프로그램 구성도
 
-![image-20210614133611833](C:\Users\Redwood\AppData\Roaming\Typora\typora-user-images\image-20210614133611833.png)
+https://user-images.githubusercontent.com/45554623/121840119-89cfbe80-cd16-11eb-8e67-c33382820f67.png
 
 
 
