@@ -119,16 +119,6 @@ else:
             'PASSWORD': 'semo1054',
         }
     }
-    # DATABASES = {
-    #     'default': {
-    #         'ENGINE': 'django.db.backends.mysql',
-    #         'NAME': 'reddb',
-    #         'USER': 'root',
-    #         'PASSWORD': 'Whqudq1w2e3!1',
-    #         'HOST': 'localhost',
-    #         'PORT': '3306',
-    #     }
-    # }
 # [END db_setup]
 
 
